@@ -1,0 +1,155 @@
+html, body {
+    height: 100vh;
+    max-width:100%;
+    padding: 0px;
+}
+.kr-kolonna{
+    background: linear-gradient(180deg, #0084F8 0%, #00C6FF 100%);
+} 
+.lb-kolonna{
+    background: #E5E5E5;
+}
+.sveiciens{
+    margin: 0 auto;
+    width: 361px;
+    height: 140px;
+   
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 54px;
+    line-height: 70px;
+
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+.group1{
+    margin: 0 auto;
+    margin-top: 10vh;
+
+/* position: absolute; */
+    width: 90%;
+    height: 256px;
+    /* left: 76px;
+    right: 280px; */
+    
+text-align: center;
+/* border: 1px solid black; */
+
+}
+.line{
+    width: 248px;
+    height: 0px;
+    
+    /* left: 177px; */
+    /* top: 308px; */
+
+border: 1px solid #FFFFFF;
+
+}
+.paskaidrojums{
+
+    /* position: absolute; */
+    /* width: 80%; */
+    /* height: 36px; */
+    /* left: 76px; */
+    /* top: 348px; */
+    
+    /* header/h5 */
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    /* primary/white */
+    
+    color: #FFFFFF;
+
+}
+.kimija{
+    margin: 0 auto;
+    margin-top: 5vh;
+
+    display: block;  
+    width: 90%;
+}
+
+.kaste {
+    display: block;
+}
+.zila{
+    color: #0084F8;
+}
+.peleks{
+    color: #52616B;
+}
+.poga1
+{font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 34px;
+    display: inline-flex;
+    align-items: center;
+    
+    /* primary/white */
+    
+    color: #FFFFFF;
+    background:  #0084F8;
+    border: 1px solid  #0084F8;
+}
+
+
+.poga2
+{font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 34px;
+    display: inline-flex;
+    align-items: center;
+    
+    /* primary/white */
+    
+    color:#0084F8; 
+    background:  #FFFFFF;
+    border: 1px solid  #0084F8;
+}
+.group3
+{   margin: 0 auto;
+    margin-top: 10vh;
+
+/* position: absolute; */
+    width: 90%;
+    height: 256px;
+    /* left: 76px;
+    right: 280px; */
+    
+text-align: center;
+/* border: 1px solid black; */
+
+}
+.poga3
+{font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 34px;
+    display: inline-flex;
+    align-items: center;
+    
+    /* primary/white */
+    position: fixed;
+    bottom: 2vh;
+    right: 2vw;
+    color: #FFFFFF;
+    background:  #FF8576;
+    border: 1px solid  #FF8576;
+}
